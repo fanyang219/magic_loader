@@ -1,4 +1,4 @@
-package com.sky.loader;
+package com.sky.loader.util;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
